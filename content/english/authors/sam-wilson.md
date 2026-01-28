@@ -4,9 +4,9 @@ email: samwilson@email.com
 image: "/images/avatar.png"
 description: this is meta description
 social:
-  - name: github
-    icon: fa-brands fa-github
-    link: https://github.com
+  - name: bluesky
+    icon: fa-brands fa-bluesky
+    link: https://bsky.app/profile/nick-calamaro.bsky.social
 
   - name: twitter
     icon: fa-brands fa-twitter
